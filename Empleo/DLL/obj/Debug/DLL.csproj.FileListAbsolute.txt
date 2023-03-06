@@ -1,0 +1,6 @@
+C:\,net\Mini Project\Empleo\DLL\bin\Debug\DLL.dll
+C:\,net\Mini Project\Empleo\DLL\bin\Debug\DLL.pdb
+C:\,net\Mini Project\Empleo\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\,net\Mini Project\Empleo\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\,net\Mini Project\Empleo\DLL\obj\Debug\DLL.dll
+C:\,net\Mini Project\Empleo\DLL\obj\Debug\DLL.pdb

@@ -1,0 +1,9 @@
+C:\,net\Mini Project\Empleo\BLL\bin\Debug\BLL.dll
+C:\,net\Mini Project\Empleo\BLL\bin\Debug\BLL.pdb
+C:\,net\Mini Project\Empleo\BLL\bin\Debug\DLL.dll
+C:\,net\Mini Project\Empleo\BLL\bin\Debug\DLL.pdb
+C:\,net\Mini Project\Empleo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\,net\Mini Project\Empleo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\,net\Mini Project\Empleo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\,net\Mini Project\Empleo\BLL\obj\Debug\BLL.dll
+C:\,net\Mini Project\Empleo\BLL\obj\Debug\BLL.pdb
